@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Bingo_LotoFacil
->>>>>>> origin/main
+# Bingo_LotoFacil
 Diminui a margem de erro da LotoFacil
